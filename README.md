@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور العشق في عيوني يناديك
+> صوت الشوق في قلبي يناجيك
+> بين روحي وروحك سر يحييك
+> نار الحب في الأعماق ترويك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
